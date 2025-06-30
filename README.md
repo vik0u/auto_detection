@@ -5,5 +5,6 @@
 - detector.py основной файл детекции объектов
 
 usage
-1. install reqirements
-2. run ```python3 detector.py```
+1. download video "cvtest.avi" if other -> drop apply_roi_mask or add your to config
+2. install reqirements
+3. run ```python3 detector.py```
